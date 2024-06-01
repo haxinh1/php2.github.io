@@ -1,0 +1,14 @@
+{
+    "name": "admin/xuong",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Xuong\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haxinh1",
+            "email": "hanguyen010129@gmail.com"
+        }
+    ]
+}
